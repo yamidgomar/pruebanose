@@ -1,0 +1,39 @@
+header {
+    width:100%;
+    background:blue;
+    padding:10px 0px;
+}
+
+header a {
+    text-decoration:none;
+    color:#fff;
+    text-shadow:2px 1px #333;
+}
+.contenedor {
+    width:90%;
+    margin:auto;
+}
+
+main {
+    padding:25px 0;
+    width:80%;
+    margin:25px auto;
+    border:1px solid #333;
+    border-radius:6px;
+    background:#ccc;
+    box-shadow:5px 5px 5px #000;
+}
+
+main h2 {
+    margin-bottom:25px;
+}
+
+main p {
+    margin-bottom:15px;
+}
+
+footer {
+    width:100%;
+    background:blue;
+    color:#fff;
+}
